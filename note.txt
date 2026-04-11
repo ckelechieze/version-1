@@ -3,3 +3,5 @@
 2. Staging: 
     (a) git add <filename> (to stage one file)
     (b) git add . (to stage all files)
+
+3. Commit: git commit -m "your commit message here"
