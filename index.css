@@ -18,3 +18,13 @@ header {
     color: black;
     padding: 1rem;
 }
+
+.hero {
+    background-color: gray;
+    min-height: 50vh;
+}
+
+.features {
+    background-color: red;
+    color: white;
+}
