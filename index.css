@@ -28,3 +28,8 @@ header {
     background-color: red;
     color: white;
 }
+
+footer {
+    background-color: cornflowerblue;
+    padding: 4rem 0;
+}
